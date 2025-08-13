@@ -257,4 +257,4 @@
 
 <p>如需更多信息或有任何问题，请联系 <strong>support@indicalab.com</strong></p>
 
-<p>访问 <strong><a href="https://learn.indicalab.com/">Indica Labs 在线学习门户</a></strong> 以了解更多新功能信息。</p><!--##{"timestamp":1738398581}##-->
+<p>访问 <strong><a href="https://learn.indicalab.com/">Indica Labs 在线学习门户</a></strong> 以了解更多新功能信息。</p><!--##{"timestamp":1744100981}##-->
