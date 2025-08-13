@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HALO中文资讯发布站</title><link>https://HALO-China.github.io</link><description>如在维保期内且需要升级，请联系HALO中文支持</description><copyright>HALO中文资讯发布站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/226232614?s=400&amp;u=de0d8ef4241c07f0f78252ac51af4b20828cd529&amp;v=4</url><title>avatar</title><link>https://HALO-China.github.io</link></image><lastBuildDate>Wed, 13 Aug 2025 09:36:00 +0000</lastBuildDate><managingEditor>HALO中文资讯发布站</managingEditor><ttl>60</ttl><webMaster>HALO中文资讯发布站</webMaster><item><title>HALO v4.1.5944.283 Patch 3 说明</title><link>https://HALO-China.github.io/post/HALO%20v4.1.5944.283%20Patch%203%20-shuo-ming.html</link><description># HALO 4.1 patch3发布说明
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HALO中文资讯发布站</title><link>https://HALO-China.github.io</link><description>如在维保期内且需要升级，请联系HALO中文支持</description><copyright>HALO中文资讯发布站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/226232614?s=400&amp;u=de0d8ef4241c07f0f78252ac51af4b20828cd529&amp;v=4</url><title>avatar</title><link>https://HALO-China.github.io</link></image><lastBuildDate>Wed, 13 Aug 2025 09:36:55 +0000</lastBuildDate><managingEditor>HALO中文资讯发布站</managingEditor><ttl>60</ttl><webMaster>HALO中文资讯发布站</webMaster><item><title>HALO v4.1.5944.271 Patch 2 说明</title><link>https://HALO-China.github.io/post/HALO%20v4.1.5944.271%20Patch%202%20-shuo-ming.html</link><description>
+# HALO 4.1 发布说明
+
+**软件更新 | 2025 年 7月**  
+**仅供研究使用**
+
+---
+
+## HALO v4.1.5944.271
+
+### bug修复
+- 优化批量分析时的标注加载通知机制，避免系统耗尽 Windows 句柄的问题。</description><guid isPermaLink="true">https://HALO-China.github.io/post/HALO%20v4.1.5944.271%20Patch%202%20-shuo-ming.html</guid><pubDate>Wed, 13 Aug 2025 09:18:35 +0000</pubDate></item><item><title>HALO v4.1.5944.283 Patch 3 说明</title><link>https://HALO-China.github.io/post/HALO%20v4.1.5944.283%20Patch%203%20-shuo-ming.html</link><description># HALO 4.1 patch3发布说明
 
 **软件更新 | 2025 年 8月**  
 **仅供研究使用**
@@ -219,15 +230,4 @@
 
 ---
 
-&gt; 每个 HALO 版本都会新增功能和更新模块。</description><guid isPermaLink="true">https://HALO-China.github.io/post/HALO%20%26%20HALO%20AI%204.1%20-fa-bu-shuo-ming.html</guid><pubDate>Wed, 13 Aug 2025 05:23:52 +0000</pubDate></item><item><title>HALO v4.1.5944.271 Patch 2 说明</title><link>https://HALO-China.github.io/post/HALO%20v4.1.5944.271%20Patch%202%20-shuo-ming.html</link><description>&lt;!-- ##{'timestamp':1752740981}## --&gt;
-# HALO 4.1 发布说明
-
-**软件更新 | 2025 年 7月**  
-**仅供研究使用**
-
----
-
-## HALO v4.1.5944.271
-
-### bug修复
-- 优化批量分析时的标注加载通知机制，避免系统耗尽 Windows 句柄的问题。</description><guid isPermaLink="true">https://HALO-China.github.io/post/HALO%20v4.1.5944.271%20Patch%202%20-shuo-ming.html</guid><pubDate>Thu, 17 Jul 2025 08:29:41 +0000</pubDate></item></channel></rss>
+&gt; 每个 HALO 版本都会新增功能和更新模块。</description><guid isPermaLink="true">https://HALO-China.github.io/post/HALO%20%26%20HALO%20AI%204.1%20-fa-bu-shuo-ming.html</guid><pubDate>Wed, 13 Aug 2025 05:23:52 +0000</pubDate></item></channel></rss>
