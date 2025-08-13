@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HALO中国</title><link>https://HALO-China.github.io</link><description>HALO中文咨询发布站</description><copyright>HALO中国</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/226232614?s=400&amp;u=de0d8ef4241c07f0f78252ac51af4b20828cd529&amp;v=4</url><title>avatar</title><link>https://HALO-China.github.io</link></image><lastBuildDate>Wed, 13 Aug 2025 05:54:57 +0000</lastBuildDate><managingEditor>HALO中国</managingEditor><ttl>60</ttl><webMaster>HALO中国</webMaster><item><title>HALO &amp; HALO AI 4.1 发布说明</title><link>https://HALO-China.github.io/post/HALO%20%26%20HALO%20AI%204.1%20-fa-bu-shuo-ming.html</link><description># HALO 4.1 发布说明
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HALO中国</title><link>https://HALO-China.github.io</link><description>HALO中文咨询发布站</description><copyright>HALO中国</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/226232614?s=400&amp;u=de0d8ef4241c07f0f78252ac51af4b20828cd529&amp;v=4</url><title>avatar</title><link>https://HALO-China.github.io</link></image><lastBuildDate>Wed, 13 Aug 2025 06:11:21 +0000</lastBuildDate><managingEditor>HALO中国</managingEditor><ttl>60</ttl><webMaster>HALO中国</webMaster><item><title>HALO v4.1.5944.283 Patch 3 说明</title><link>https://HALO-China.github.io/post/HALO%20v4.1.5944.283%20Patch%203%20-shuo-ming.html</link><description># HALO 4.1 发布说明
+
+**软件更新 | 2025 年 8月**  
+**仅供研究使用**
+
+---
+
+## HALO v4.1.5944.283
+
+### bug修复
+- 解决了从 HALO 3.6 数据库迁移至 4.1 后，分类器标记（Classifier Markup）显示异常以及标记命名顺序颠倒的问题。</description><guid isPermaLink="true">https://HALO-China.github.io/post/HALO%20v4.1.5944.283%20Patch%203%20-shuo-ming.html</guid><pubDate>Wed, 13 Aug 2025 06:10:54 +0000</pubDate></item><item><title>HALO &amp; HALO AI 4.1 发布说明</title><link>https://HALO-China.github.io/post/HALO%20%26%20HALO%20AI%204.1%20-fa-bu-shuo-ming.html</link><description># HALO 4.1 发布说明
 
 **软件更新 | 2025 年 2 月**  
 **仅供研究使用**
