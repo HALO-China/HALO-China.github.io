@@ -213,4 +213,7 @@
 
 如需更多信息或有任何问题，请联系 **support@indicalab.com**  
 
-访问 **Indica Labs 在线学习门户** 以了解更多新功能信息。
+访问 **[Indica Labs 在线学习门户](https://learn.indicalab.com/)** 以了解更多新功能信息。
+
+
+<!-- ##{"timestamp":1754036981}## -->
