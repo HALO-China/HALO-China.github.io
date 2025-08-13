@@ -1,5 +1,6 @@
 <h1>HALO Link v4.1 – 2025年2月更新</h1>
 
+<h2>HALO Link 4.1 发布说明</h2>
 <p><strong>SOFTWARE UPDATE | February 2025</strong><br>Research Use Only</p>
 
 <hr>
@@ -13,8 +14,7 @@
   <li><strong>重新设计的研究导航</strong>：新增收藏与最近研究页；可展开的研究树，便于在嵌套研究间高效导航（研究树保持可见）。</li>
 </ul>
 
-<h2>HALO Link 4.1 发布说明</h2>
-<p><strong>SOFTWARE UPDATE | February 2025</strong><br>Research Use Only</p>
+
 
 <h3>标注</h3>
 <ul>
