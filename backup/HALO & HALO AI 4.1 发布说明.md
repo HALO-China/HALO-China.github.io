@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://HALO-China.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://HALO-China.github.io</link></image><lastBuildDate>Wed, 13 Aug 2025 05:43:58 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>HALO &amp; HALO AI 4.1 发布说明</title><link>https://HALO-China.github.io/post/HALO%20%26%20HALO%20AI%204.1%20-fa-bu-shuo-ming.html</link><description># HALO 4.1 发布说明
+# HALO 4.1 发布说明
 
 **软件更新 | 2025 年 2 月**  
 **仅供研究使用**
@@ -198,15 +197,20 @@
 - 选择不同研究后图像列表延迟加载
 - 无法将裁剪图像保存到 NAS
 - HALO Link 用户组权限阻止分割 TMA 分割显示
-- API 网关未正确处理 'CloseReceived' 状态
+- API 网关未正确处理 "CloseReceived" 状态
 - HALO 安装程序间歇性丢失 segment anything 模型权重文件
 - 提高迁移性能，使标记图像宽度与分析任务区域宽度匹配
 - 增加 SQL 和 SignalR 超时默认值
 - 无法创建离线安装包
-- 在 ASP.NET Cookies 中添加 'secure'
+- 在 ASP.NET Cookies 中添加 "secure"
 - GraphQL Workbench 的工具提示卡住显示
 - 非正常退出后 HALO 无法启动
 
 ---
 
-&gt; 每个 HALO 版本都会新增功能和更新模块。</description><guid isPermaLink="true">https://HALO-China.github.io/post/HALO%20%26%20HALO%20AI%204.1%20-fa-bu-shuo-ming.html</guid><pubDate>Wed, 13 Aug 2025 05:23:52 +0000</pubDate></item></channel></rss>
+> 每个 HALO 版本都会新增功能和更新模块。  
+> 这些改进可能会导致不同版本 HALO 的分析结果略有差异。  
+
+如需更多信息或有任何问题，请联系 **support@indicalab.com**  
+
+访问 **Indica Labs 在线学习门户** 以了解更多新功能信息。
